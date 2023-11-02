@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirti1803
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning biotechnology engineering
-- 💞️ I’m looking to collaborate on some projects related to basic data analytics
+- 👀 I’m interested in cloud computing
+- 🌱 I’m currently learning Python advance.
+- 💞️ I’m looking to collaborate on some projects related to AWS and Azure
 - 📫 How to reach me?-- you can reach me on linkedin and github itself.
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirti1803
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in learning python
 - 🌱 I’m currently learning Python advance.
-- 💞️ I’m looking to collaborate on some projects related to AWS and Azure
+- 💞️ I’m looking to collaborate on some projects related to data 
 - 📫 How to reach me?-- you can reach me on linkedin and github itself.
 
 <!---
